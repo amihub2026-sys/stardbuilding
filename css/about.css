@@ -1,0 +1,2 @@
+.story{display:grid;grid-template-columns:1fr 1.5fr;align-items:center;gap:90px}.big-number{font-size:12rem;font-weight:500;color:#cfe8fa;line-height:1.1;letter-spacing:-.1em}.big-number span{display:block;font-size:1rem;letter-spacing:0;color:var(--blue);margin-top:20px}.values{background:var(--sky)}@media(max-width:760px){.story{grid-template-columns:1fr;gap:40px}.big-number{font-size:7rem}.story .section-heading{margin-bottom:20px}}
+.big-number{color:#e9b834}.big-number span{color:#28794c}.values{background:#eef6e5}

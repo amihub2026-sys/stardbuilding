@@ -1,0 +1,1 @@
+Open index.html after extracting the ZIP. Hero video is included locally. One online interior inspiration photo is credited to Design Chama (https://www.chama.gr/) and has a local fallback. Architecture images are inspirations, not claims of completed Star Builder projects. Contact form opens WhatsApp for review. Tamil and English switch available.
